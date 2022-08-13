@@ -1,0 +1,47 @@
+body {
+    font-family: sans-serif;
+}
+
+nav {
+    text-align: center;
+    /*outline: 1px solid yellow;*/
+}
+
+ul {
+    /*outline: 1px solid blue;*/
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    background: #7E4F24;
+    line-height: 20px;
+}
+
+li {
+    /*outline: 1px solid red;*/
+    width: 100px;
+    display: inline-block;
+}
+
+a {
+    /*outline: 1px solid green;*/
+    text-decoration: none;
+    display: block;
+    color: aliceblue;
+}
+
+a:hover {
+    background: #f9a91a;
+    color: #000;
+}
+#pielogo {
+    text-align: center;
+    color: rgb(10, 83, 83);
+}
+
+div {
+    color: #321a04;
+}
+
+h3 {
+    text-align: center;
+}
